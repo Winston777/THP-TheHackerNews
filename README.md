@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ReadMe, ReadMe, saaay that you ReadMe
 
-Things you may want to cover:
+Base de donnée pour le site TheHackerNews contenant 6 splendides articles, 15 magnifiques utilisateurs, 3 merveilleux commentaires, et un fantastique sous-commentaire.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Oeuvre fabuleuse de Winston777
